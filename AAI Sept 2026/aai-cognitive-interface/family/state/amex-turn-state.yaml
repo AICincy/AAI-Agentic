@@ -1,0 +1,20 @@
+objective: Loadable r/Amex public-rule text that implements F1-F5 from Amex Report 090326
+request_class: CHANGE
+authorized_scope: Publish G2-authorized rule text in a moderator-loadable form
+constraints:
+  - Sept 3 2026 policy-owner clarification controls
+  - No invented karma number
+  - No obsolete first-strike or remove-first penalty language
+  - One usable artifact, not a file pile
+  - User correction 2026-09-07: prior kits were unusable
+active_threads: []
+next_action: none
+completion_evidence: r-amex-rules.txt and r-amex-rules.load.json contain six field-complete rules
+human_gate: null
+takeover: false
+artifact_targets:
+  - /home/workdir/artifacts/r-amex-rules.txt
+  - /home/workdir/artifacts/r-amex-rules.load.json
+status: COMPLETE
+missing_dependencies:
+  - reddit-moderator-session

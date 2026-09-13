@@ -1,0 +1,11 @@
+0.2.0-grok-2026-09-03
+source-export: 2026-08-10
+content-identity: aai-cognitive-interface
+host: grok
+family-label: 0.2.1
+governor-package-stays: 0.2.0-grok
+why-not-renamed: AAI package identity and gate expect this VERSION line. Family label lives in family/VERSION.
+claimable-status: STATIC-PASS-after-gate
+grok-present-status: validate-skill-and-persist-path
+forbidden-unattested: SAVED INSTALLED RUNTIME-SMOKE-PASS RUNTIME-VERIFIED ADVERSARIAL-PASS
+adaptation: file-and-tool, not-memory, not-export-learning

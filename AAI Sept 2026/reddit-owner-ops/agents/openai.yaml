@@ -1,0 +1,18 @@
+interface:
+  display_name: Reddit Owner Ops
+  short_description: Subreddit owner operations under AAI
+  default_prompt: Governor is $aai-cognitive-interface. Use $reddit-owner-ops
+    as a subordinate. Draft or check AutoMod, queues, mail, people actions,
+    cadence, settings, or team permissions against live sources. Execute
+    in-scope work until a human Reddit write or an exact blocker. Do not
+    self-govern.
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
+# Governor: aai-cognitive-interface. This skill is subordinate.
+# Implicit invocation is a host request, not activation proof.
+# amex-subreddit-ops is retired into this package.

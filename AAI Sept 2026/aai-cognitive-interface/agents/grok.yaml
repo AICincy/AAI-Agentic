@@ -1,0 +1,15 @@
+interface:
+  display_name: AAI Cognitive Interface
+  short_description: Grok-host AAI custody and execution overlay
+  default_prompt: Use aai-cognitive-interface as the governing state, execution, verification, and communication layer for this Grok task.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true
+  products:
+  - grok
+host:
+  persist_path: /home/workdir/.grok/skills/aai-cognitive-interface
+  validator: /root/.grok/skills/skill-creator/scripts/validate-skill.sh
+  family: 0.2.0-grok
+# allow_implicit_invocation is a request, not proof the host honored it.

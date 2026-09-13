@@ -1,0 +1,24 @@
+{
+  "host": "grok",
+  "human_gate": "Submit on openai.com/form/informal-dispute/",
+  "mode": "compose-skills",
+  "objective": "Recipient-limited informal-dispute fields from a shared chronology. AAI is interrupted work, not a product essay.",
+  "plan_id": "openai-informal-dispute-skill-correct-2026-09-13",
+  "skills": [
+    {
+      "name": "aai-cognitive-interface",
+      "order": 1,
+      "terminate_when": "Two form fields exist and match the corrected facts.",
+      "why": "Custody, corrections, register."
+    },
+    {
+      "name": "regulatory-complaint-drafting",
+      "order": 2,
+      "terminate_when": "Form fields derived from complaint state.",
+      "why": "Notice structure, chronology, relief limited to what OpenAI can grant."
+    }
+  ],
+  "spawn_tool_present": false,
+  "terminate_when": "Paste-ready dispute and relief fields.",
+  "written_at": "2026-09-13T02:41:43.918151+00:00"
+}

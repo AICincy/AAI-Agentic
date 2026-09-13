@@ -1,0 +1,30 @@
+{
+  "checked_at": "2026-09-06T19:38:00+00:00",
+  "route": "firecrawl_v2_scrape",
+  "endpoint": "https://api.firecrawl.dev/v2/scrape",
+  "key_stored_in_skills": false,
+  "cache_operative": false,
+  "status": "LIVE-FETCH-PASS",
+  "rows": [
+    {
+      "id": "hamilton-local-rules-index",
+      "url": "https://hamiltoncountycourts.org/index.php/local-rules/",
+      "ok": true,
+      "title": "Common Pleas Local Rules | Hamilton County Courts",
+      "facts": [
+        "Local Rules Book Version - Effective 4-24-26",
+        "Rule 31 updated; PDF dated 2026-07-29"
+      ]
+    },
+    {
+      "id": "ocr-complaint-info",
+      "url": "https://www.hhs.gov/ocr/complaints/index.html",
+      "ok": true,
+      "title": "Filing with OCR | HHS.gov",
+      "facts": [
+        "Official OCR filing entry",
+        "Tracks named: civil rights, conscience or religious freedom, health information privacy, patient safety confidentiality"
+      ]
+    }
+  ]
+}

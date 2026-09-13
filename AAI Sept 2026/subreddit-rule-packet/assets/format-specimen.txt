@@ -1,0 +1,90 @@
+ENFORCEMENT
+A violation results in a ban with no warning. The acting moderator sets the duration. Appeal only through Rule 6. See a violation? Report it.
+
+COMMUNITY DESCRIPTION
+Adult community. Reddit's terms apply. Members report. Moderators enforce. Referrals belong only in the current stickied monthly thread.
+
+RULE 1 TITLE
+Referral Protocol
+
+RULE 1 TEXT
+Referrals belong only in the current stickied monthly thread and require sufficient r/Amex community karma. Do not solicit them elsewhere, including DMs and profiles.
+
+RULE 1 REMOVAL REASONS
+1a. Referral or affiliate link posted outside the current stickied monthly thread.
+1b. Referral requested or offered outside the monthly thread, including "DM me" and other coded asks.
+1c. Unsolicited referral message.
+1d. Referral routed through a profile, signature, or other off-thread path.
+1e. Referral posted in the monthly thread without sufficient r/Amex community karma.
+1f. Non-Amex referral posted without moderator approval.
+
+RULE 2 TITLE
+Submission Quality
+
+RULE 2 TEXT
+Give readers the context they need. No duplicates, bare screenshots, or Common Questions repeats. If removed, edit and send one modmail.
+
+RULE 2 REMOVAL REASONS
+2a. Duplicate of an active thread.
+2b. Screenshot or image posted without the context needed to evaluate it.
+2c. Question already covered in the monthly Common Questions thread.
+2d. Post does not state a question, fact, or claim that another reader can evaluate.
+
+RULE 3 TITLE
+Conduct
+
+RULE 3 TEXT
+Address the argument. Do not attack the person. Bigotry and card-tier elitism are prohibited.
+
+RULE 3 REMOVAL REASONS
+3a. Personal attack.
+3b. Bigotry or hate speech.
+3c. Card-tier elitism.
+3d. Abuse or harassment of another user.
+
+RULE 4 TITLE
+Filtered Content
+
+RULE 4 TEXT
+Do not repost removed content. Use modmail.
+
+RULE 4 REMOVAL REASONS
+4a. Repost of AutoMod-filtered content.
+4b. Repost of moderator-removed content.
+4c. Second thread opened after a removal instead of one modmail.
+
+RULE 5 TITLE
+Security
+
+RULE 5 TEXT
+No fraud, identity theft, unauthorized access, agreement-violating manufactured spending, or tools that handle credentials, session tokens, or nonpublic personal information.
+
+RULE 5 REMOVAL REASONS
+5a. Fraud or attempted fraud.
+5b. Identity theft or posting of another person's account information.
+5c. Unauthorized account access, or instructions for it.
+5d. Manufactured spending that violates a cardmember agreement.
+5e. Tool or script that handles credentials, session tokens, or nonpublic personal information.
+5f. Sitewide Reddit terms of service violation.
+
+RULE 6 TITLE
+Moderator Interaction
+
+RULE 6 TEXT
+Send disputes and appeals in one modmail. Do not argue moderation in public. Do not harass moderators or evade a ban.
+
+RULE 6 REMOVAL REASONS
+6a. Public complaint about moderation.
+6b. Harassment of a moderator.
+6c. Ban evasion.
+6d. Attempt to obtain a different decision from another moderator.
+
+MONTHLY THREAD HEADER
+This is the only thread for referrals. Sufficient r/Amex community karma is required.
+
+Do not request DMs. Do not send unsolicited referral messages. Do not place a referral in a profile or in another thread.
+
+If removed, send one modmail. Do not repost.
+
+A violation is a ban with no warning. The acting moderator sets the duration. Appeal through Rule 6.
+

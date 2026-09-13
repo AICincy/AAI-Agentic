@@ -1,0 +1,48 @@
+recorded: 2026-09-06
+host: grok-chat-this-turn
+telemetry: UNAVAILABLE
+aai_skill_on_this_list: false
+source: tools and connectors advertised on this turn, not the 2026-09-03 ChatGPT screenshot list
+built_in:
+  - web_search
+  - browse_page
+  - browser_tab
+  - x_keyword_search
+  - x_semantic_search
+  - x_user_search
+  - x_thread_fetch
+  - view_x_video
+  - search_images
+  - generate_image
+  - edit_image
+  - view_image
+  - bash
+  - read_file
+  - write_file
+  - edit_file
+  - search_connected_tools
+  - call_connected_tool
+  - list_available_connectors
+  - request_connector_auth
+connected_services_advertised:
+  - Google Drive
+  - Google Calendar
+  - Gmail
+  - Figma
+  - GitHub
+  - Voice
+  - Automations
+not_exposed_this_turn:
+  - CourtListener
+  - Midpage Legal Research
+  - Exa
+  - Tavily AI
+  - Parallel Search
+  - spawn-subagent
+  - grok-4.20-multi-agent
+prior_chatgpt_screenshot_list: family/state/host-connectors.yaml.bak-2026-09-03-not-written
+firecrawl_api:
+  supplied_this_turn: true
+  stored_in_skill_tree: false
+  used_for: filing scrape after urllib 403/timeout
+note: Presence is not invocation. Invocation is not AAI custody. Foreign-host plugin names from 2026-09-03 are not this turn's inventory.

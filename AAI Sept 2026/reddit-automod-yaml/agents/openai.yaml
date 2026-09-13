@@ -1,0 +1,17 @@
+interface:
+  display_name: Reddit AutoMod YAML
+  short_description: Source-backed AutoModerator YAML audit and remediation
+  default_prompt: Governor is $aai-cognitive-interface. Use $reddit-automod-yaml
+    as a subordinate. Fetch official AutoMod docs through exa-firecrawl before
+    any syntax claim. Audit or remediate the named YAML. Keep unpublished
+    floors out of public comments. Wiki paste stays a human gate. Do not
+    self-govern.
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
+# Governor: aai-cognitive-interface. This skill is subordinate.
+# Implicit invocation is a host request, not activation proof.

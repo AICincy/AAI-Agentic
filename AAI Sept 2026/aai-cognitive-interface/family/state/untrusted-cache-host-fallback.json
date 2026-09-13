@@ -1,0 +1,25 @@
+{
+  "checked_at": "2026-09-06T19:33:00+00:00",
+  "route": "browse_page",
+  "cache_operative": false,
+  "rows": [
+    {
+      "id": "hamilton-local-rules-index",
+      "url": "https://hamiltoncountycourts.org/index.php/local-rules/",
+      "ok": true,
+      "note": "Live page. Local Rules Book Version Effective 4-24-26. Rule 31 updated 7/29/26."
+    },
+    {
+      "id": "ocr-complaint-info",
+      "url": "https://www.hhs.gov/ocr/complaints/index.html",
+      "ok": true,
+      "note": "Official OCR filing entry. Types: civil rights, conscience, health information privacy, patient safety confidentiality. Content last reviewed 2026-02-13."
+    },
+    {
+      "id": "med-board-home",
+      "url": "https://med.ohio.gov/for-the-public",
+      "ok": true,
+      "note": "Official State of Ohio public page. Contact 614-466-3934, contact@med.ohio.gov. www.med.ohio.gov returned 404 this host."
+    }
+  ]
+}

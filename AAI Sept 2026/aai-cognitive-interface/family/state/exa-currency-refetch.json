@@ -1,0 +1,35 @@
+{
+  "checked_at": "2026-09-06T19:40:00+00:00",
+  "route": "exa_search",
+  "endpoint": "https://api.exa.ai/search",
+  "key_stored_in_skills": false,
+  "cache_operative": false,
+  "status": "LIVE-FETCH-PASS",
+  "rows": [
+    {
+      "id": "orc-149-43-new-version",
+      "ok": true,
+      "controlling_urls": [
+        "https://codes.ohio.gov/ohio-revised-code/section-149.43",
+        "https://codes.ohio.gov/ohio-revised-code/section-149.43/9-7-2026"
+      ],
+      "facts": [
+        "Current official text page flags a new version effective 2026-09-07",
+        "New version path is section-149.43/9-7-2026",
+        "Amendment attributed to House Bill 31, 136th General Assembly"
+      ]
+    },
+    {
+      "id": "hamilton-local-rules",
+      "ok": true,
+      "controlling_urls": [
+        "https://hamiltoncountycourts.org/index.php/local-rules/"
+      ],
+      "facts": [
+        "Exa independently hit the live local-rules index",
+        "Index lists Rule 31 Mediation updated 7/29/26",
+        "Older book PDFs (10-9-25, 5-21-24) are not the current book"
+      ]
+    }
+  ]
+}

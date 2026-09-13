@@ -1,0 +1,62 @@
+{
+  "cache_operative": false,
+  "checked_at": "2026-09-06T20:03:00.944285+00:00",
+  "failed": [],
+  "host_fallback": "If a row stays failed, the agent must use browse_page or web_search and record that route. Do not use cache.",
+  "mode": "currency",
+  "rows": [
+    {
+      "attempt_count": 1,
+      "attempt_routes": [
+        "urllib:200"
+      ],
+      "attempt_urls": [
+        "https://codes.ohio.gov/ohio-revised-code/section-149.43"
+      ],
+      "bytes_read": 8000,
+      "final_url": "https://codes.ohio.gov/ohio-revised-code/section-149.43",
+      "http_status": 200,
+      "id": "orc-149-43",
+      "ok": true,
+      "role": "Ohio Rev. Code 149.43 official text",
+      "route": "urllib",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-149.43"
+    },
+    {
+      "attempt_count": 1,
+      "attempt_routes": [
+        "urllib:200"
+      ],
+      "attempt_urls": [
+        "https://codes.ohio.gov/ohio-revised-code/section-4731.22"
+      ],
+      "bytes_read": 8000,
+      "final_url": "https://codes.ohio.gov/ohio-revised-code/section-4731.22",
+      "http_status": 200,
+      "id": "orc-4731-22",
+      "ok": true,
+      "role": "Ohio Rev. Code 4731.22 official text",
+      "route": "urllib",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4731.22"
+    },
+    {
+      "attempt_count": 1,
+      "attempt_routes": [
+        "urllib:200"
+      ],
+      "attempt_urls": [
+        "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1983&num=0&edition=prelim"
+      ],
+      "bytes_read": 8000,
+      "final_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1983&num=0&edition=prelim",
+      "http_status": 200,
+      "id": "usc-1983",
+      "ok": true,
+      "role": "42 U.S.C. 1983 official text",
+      "route": "urllib",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1983&num=0&edition=prelim"
+    }
+  ],
+  "rule": "Untrusted cache is a search hint only. Live row text is not copied into authority answers.",
+  "status": "LIVE-FETCH-PASS"
+}

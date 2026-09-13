@@ -1,0 +1,16 @@
+interface:
+  display_name: AAI Cognitive Interface
+  short_description: Execute Krass's AuDHD control architecture
+  default_prompt: Use $aai-cognitive-interface as the governing state, execution,
+    verification, and communication layer for this task.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+# Host notes: references/host-binding.md
+# allow_implicit_invocation is a request, not proof of activation.

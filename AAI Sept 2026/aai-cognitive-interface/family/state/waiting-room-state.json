@@ -1,0 +1,11 @@
+{
+  "authorized_scope": "CourtListener token live; Hamilton County Clerk public name search; Enformion only with matching profile",
+  "blocker": "NCIC/RCIC/LEADS/OHLEG have no civilian API. CH unauthorized target. No form rewrite.",
+  "intent_class": "CH",
+  "interrupt_type": "user asked register-mediation retry after NCIC/RCIC access refusal",
+  "last_completed_step": "Confirmed RCIC is agency-terminal only; CourtListener RECAP count 0 for Jami Berling",
+  "live_action": "parked",
+  "objective": "Authorized public-court and CourtListener research on named subject; no NCIC/RCIC/LEADS/OHLEG client",
+  "retry_used": false,
+  "updated": "2026-09-13T17:48:36.491387+00:00"
+}

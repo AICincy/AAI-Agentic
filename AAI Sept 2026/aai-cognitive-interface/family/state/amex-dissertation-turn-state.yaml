@@ -1,0 +1,25 @@
+objective: Instrument the locked r/Amex AAI dissertation case
+request_class: BUILD
+authorized_scope: Persist methods ledger, hash available sources, record missing packet and imagery, no Reddit publish
+constraints:
+  - Q1-Q20 locked 2026-09-08 by Krass
+  - Decision lock Q1-Q20 all A except Q4=B as approved 2026-09-08
+  - No invented karma number
+  - No first-strike or remove-first slogans
+  - One usable artifact family
+  - 2026-09-07 prior kits unusable
+  - Do not reconstruct missing packet from memory or format specimen
+active_threads: []
+next_action: none (cancelled by user 2026-09-08 overload cancel)
+completion_evidence: Ledger saved this run. Packet and imagery hashes not possible because files are absent.
+human_gate: null
+takeover: false
+artifact_targets:
+  - /home/workdir/artifacts/2026-09-08-dissertation-methods-ledger.md
+  - /home/workdir/artifacts/2026-09-08-locked-decisions.yaml
+  - /home/workdir/artifacts/2026-09-08-hash-inventory.json
+status: COMPLETE
+missing_dependencies:
+  - authoritative-r-amex-rules-packet
+  - campaign-imagery-set
+  - reddit-moderator-session

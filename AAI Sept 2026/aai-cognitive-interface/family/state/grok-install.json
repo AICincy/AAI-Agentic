@@ -1,0 +1,123 @@
+{
+  "host": "grok",
+  "label": "INSTALLED",
+  "scope": "grok-persist-only",
+  "chatgpt": "NOT-INSTALLED",
+  "codex": "NOT-INSTALLED",
+  "checked_at": "2026-09-09T18:21:05.180086+00:00",
+  "failed": [],
+  "results": [
+    {
+      "skill": "aai-cognitive-interface",
+      "status": "INSTALLED",
+      "path": "/home/workdir/.grok/skills/aai-cognitive-interface",
+      "exit": 0,
+      "reason": "persist path verified and both gates PASS",
+      "scope": "grok-persist-only"
+    },
+    {
+      "skill": "personal-context",
+      "status": "INSTALLED",
+      "path": "/home/workdir/.grok/skills/personal-context",
+      "exit": 0,
+      "reason": "persist path verified and both gates PASS",
+      "scope": "grok-persist-only"
+    },
+    {
+      "skill": "register-mediation",
+      "status": "INSTALLED",
+      "path": "/home/workdir/.grok/skills/register-mediation",
+      "exit": 0,
+      "reason": "persist path verified and both gates PASS",
+      "scope": "grok-persist-only"
+    },
+    {
+      "skill": "authority-currency-auditor",
+      "status": "INSTALLED",
+      "path": "/home/workdir/.grok/skills/authority-currency-auditor",
+      "exit": 0,
+      "reason": "persist path verified and both gates PASS",
+      "scope": "grok-persist-only"
+    },
+    {
+      "skill": "claim-source-auditor",
+      "status": "INSTALLED",
+      "path": "/home/workdir/.grok/skills/claim-source-auditor",
+      "exit": 0,
+      "reason": "persist path verified and both gates PASS",
+      "scope": "grok-persist-only"
+    },
+    {
+      "skill": "forensic-evidentiary-drafting",
+      "status": "INSTALLED",
+      "path": "/home/workdir/.grok/skills/forensic-evidentiary-drafting",
+      "exit": 0,
+      "reason": "persist path verified and both gates PASS",
+      "scope": "grok-persist-only"
+    },
+    {
+      "skill": "prompt-architecture-engineering",
+      "status": "INSTALLED",
+      "path": "/home/workdir/.grok/skills/prompt-architecture-engineering",
+      "exit": 0,
+      "reason": "persist path verified and both gates PASS",
+      "scope": "grok-persist-only"
+    },
+    {
+      "skill": "record-series-builder",
+      "status": "INSTALLED",
+      "path": "/home/workdir/.grok/skills/record-series-builder",
+      "exit": 0,
+      "reason": "persist path verified and both gates PASS",
+      "scope": "grok-persist-only"
+    },
+    {
+      "skill": "regulatory-complaint-drafting",
+      "status": "INSTALLED",
+      "path": "/home/workdir/.grok/skills/regulatory-complaint-drafting",
+      "exit": 0,
+      "reason": "persist path verified and both gates PASS",
+      "scope": "grok-persist-only"
+    },
+    {
+      "skill": "research-execution-briefs",
+      "status": "INSTALLED",
+      "path": "/home/workdir/.grok/skills/research-execution-briefs",
+      "exit": 0,
+      "reason": "persist path verified and both gates PASS",
+      "scope": "grok-persist-only"
+    },
+    {
+      "skill": "practitioner-narrative-writer",
+      "status": "INSTALLED",
+      "path": "/home/workdir/.grok/skills/practitioner-narrative-writer",
+      "exit": 0,
+      "reason": "persist path verified and both gates PASS",
+      "scope": "grok-persist-only"
+    },
+    {
+      "skill": "reddit-owner-ops",
+      "status": "INSTALLED",
+      "path": "/home/workdir/.grok/skills/reddit-owner-ops",
+      "exit": 0,
+      "reason": "persist path verified and both gates PASS",
+      "scope": "grok-persist-only"
+    },
+    {
+      "skill": "subreddit-rule-packet",
+      "status": "INSTALLED",
+      "path": "/home/workdir/.grok/skills/subreddit-rule-packet",
+      "exit": 0,
+      "reason": "persist path verified and both gates PASS",
+      "scope": "grok-persist-only"
+    },
+    {
+      "skill": "resend-api",
+      "status": "INSTALLED",
+      "path": "/home/workdir/.grok/skills/resend-api",
+      "exit": 0,
+      "reason": "persist path verified and both gates PASS",
+      "scope": "grok-persist-only"
+    }
+  ]
+}

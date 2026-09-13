@@ -1,0 +1,18 @@
+{
+  "family": "0.2.0-grok",
+  "updated": "2026-09-03",
+  "functions": [
+    {"id": "F1", "skill": "aai-cognitive-interface", "fn": "custody-and-gate", "audit": "status labels, one open loop"},
+    {"id": "F2", "skill": "aai-cognitive-interface", "fn": "adapt-writeback", "audit": "correction written to persist file"},
+    {"id": "F3", "skill": "personal-context", "fn": "retrieve-named-artifact", "audit": "file found or blocker"},
+    {"id": "F4", "skill": "register-mediation", "fn": "park-and-one-retry", "audit": "waiting-room-state.json"},
+    {"id": "F5", "skill": "research-execution-briefs", "fn": "live-research-brief", "audit": "sources listed, not dumped"},
+    {"id": "F6", "skill": "claim-source-auditor", "fn": "claim-map", "audit": "verified|conflict|not-found|review counts"},
+    {"id": "F7", "skill": "authority-currency-auditor", "fn": "authority-currentness", "audit": "live fetch or unresolved"},
+    {"id": "F8", "skill": "forensic-evidentiary-drafting", "fn": "court-draft", "audit": "draft path, DRAFTED only"},
+    {"id": "F9", "skill": "regulatory-complaint-drafting", "fn": "agency-draft", "audit": "draft path, no send"},
+    {"id": "F10", "skill": "record-series-builder", "fn": "volume-packet", "audit": "inventory of volumes"},
+    {"id": "F11", "skill": "prompt-architecture-engineering", "fn": "skill-or-prompt-contract", "audit": "SKILL.md path plus gate"},
+    {"id": "F12", "skill": "aai-family-0.2.0", "fn": "validate-and-audit-append", "audit": "STATIC-PASS plus jsonl line"}
+  ]
+}

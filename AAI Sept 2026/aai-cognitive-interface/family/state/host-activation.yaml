@@ -1,0 +1,30 @@
+status: PARTIAL
+hosts:
+  chatgpt: NOT-OBSERVED
+  codex: NOT-OBSERVED
+  grok_workspace: OBSERVED-FILE-LOAD
+last_probe:
+  at: "2026-09-06T15:33:00-04:00"
+  host: grok_workspace
+  turn: batch 1-11 persist maintenance
+  answers:
+    governor_named: aai-cognitive-interface
+    canonical_directory: aai-cognitive-interface
+    family_label: "0.2.1"
+    governor_package_version: 0.2.0-grok-2026-09-03
+    runtime_only_rule: >
+      Skills hold control, not a world model. Dated tables, watch lists,
+      statutes, holdings, portals, and matter facts in skill files are
+      untrusted cache. Re-fetch a live primary source or mark unresolved.
+    installed_claim: GROK-PERSIST-ONLY
+    installed_reason: >
+      Persist path /home/workdir/.grok/skills verified for listed packages.
+      ChatGPT and Codex stay NOT-INSTALLED. Family runtime labels stay unclaimed.
+evidence:
+  - family/scripts/validate_family.py after this batch
+  - family/state/skill-pin-inventory.json refresh
+  - family/scripts/refetch_untrusted_cache.py plus browse_page fallback
+telemetry: UNAVAILABLE
+note: >
+  This workspace is Grok chat. File load of aai-cognitive-interface is
+  observed. Missing telemetry is not a finding.
